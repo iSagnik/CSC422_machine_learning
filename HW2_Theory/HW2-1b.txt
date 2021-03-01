@@ -1,0 +1,131 @@
+Q1 b
+
+Root Node:
+
+Total Entropy:  1.0 
+
+Column:  Pclass
+0.7142857142857143
+Entropy for  Upper :  0.863120568566631
+0.5
+Entropy for  Middle :  1.0
+0.0
+Entropy for  Lower :  -0.0
+
+Ig gain for  Pclass :  0.2473847512520989
+Column:  Sex
+0.5
+Entropy for  Male :  1.0
+0.5
+Entropy for  Female :  1.0
+
+Ig gain for  Sex :  0.0
+Column:  Embarked
+0.625
+Entropy for  Cherbourg :  0.954434002924965
+0.375
+Entropy for  Queenstown :  0.954434002924965
+
+Ig gain for  Embarked :  0.04556599707503495
+Column:  Fare
+0.7
+Entropy for  Expensive :  0.8812908992306927
+0.16666666666666666
+Entropy for  Cheap :  0.6500224216483541
+
+Ig gain for  Fare :  0.20543477986268432
+The root attribute is:  Pclass  with IG:  0.2473847512520989
+
+Depth 1 node (Upper and Middle):
+Total Entropy:  0.961236604722876 
+
+Column:  Pclass
+0.7142857142857143
+Entropy for  Upper :  0.863120568566631
+0.5
+Entropy for  Middle :  1.0
+
+Ig gain for  Pclass :  0.03494091395622845
+Column:  Sex
+0.625
+Entropy for  Male :  0.954434002924965
+0.6
+Entropy for  Female :  0.9709505944546686
+
+Ig gain for  Sex :  0.00045006659417878847
+Column:  Embarked
+0.625
+Entropy for  Cherbourg :  0.954434002924965
+0.6
+Entropy for  Queenstown :  0.9709505944546686
+
+Ig gain for  Embarked :  0.00045006659417878847
+Column:  Fare
+0.7777777777777778
+Entropy for  Expensive :  0.7642045065086203
+0.25
+Entropy for  Cheap :  0.8112781244591328
+
+Ig gain for  Fare :  0.18254790807563648
+The root attribute is:  Fare  with IG:  0.18254790807563648
+
+
+Depth 1 node: (Upper):
+Column:  Pclass
+0.7142857142857143
+Entropy for  Upper :  0.863120568566631
+
+Ig gain for  Pclass :  0.0
+Column:  Sex
+0.6
+Entropy for  Male :  0.9709505944546686
+1.0
+Entropy for  Female :  -0.0
+
+Ig gain for  Sex :  0.16958442967043919
+Column:  Embarked
+0.8
+Entropy for  Cherbourg :  0.7219280948873623
+0.5
+Entropy for  Queenstown :  1.0
+
+Ig gain for  Embarked :  0.061743357932800724
+Column:  Fare
+0.8
+Entropy for  Expensive :  0.7219280948873623
+0.5
+Entropy for  Cheap :  1.0
+
+Ig gain for  Fare :  0.061743357932800724
+The root attribute is:  Sex  with IG:  0.16958442967043919
+
+Depth 1 node (Middle):
+Total Entropy:  1.0 
+
+Column:  Pclass
+0.5
+Entropy for  Middle :  1.0
+
+Ig gain for  Pclass :  0.0
+Column:  Sex
+0.3333333333333333
+Entropy for  Female :  0.9182958340544896
+0.6666666666666666
+Entropy for  Male :  0.9182958340544896
+
+Ig gain for  Sex :  0.08170416594551044
+Column:  Embarked
+0.6666666666666666
+Entropy for  Queenstown :  0.9182958340544896
+0.3333333333333333
+Entropy for  Cherbourg :  0.9182958340544896
+
+Ig gain for  Embarked :  0.08170416594551044
+Column:  Fare
+0.75
+Entropy for  Expensive :  0.8112781244591328
+0.0
+Entropy for  Cheap :  -0.0
+
+Ig gain for  Fare :  0.4591479170272448
+The root attribute is:  Fare  with IG:  0.4591479170272448

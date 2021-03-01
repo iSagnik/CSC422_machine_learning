@@ -1,0 +1,45 @@
+Root node:
+
+Column:  Pclass
+Gini idx for  Upper :  0.40816326530612246
+Gini idx for  Middle :  0.5
+Gini idx for  Lower :  0.0
+Gini idx for  Pclass :  0.3660714285714286 
+
+
+Column:  Sex
+Gini idx for  Male :  0.5
+Gini idx for  Female :  0.5
+Gini idx for  Sex :  0.5 
+
+
+Column:  Embarked
+Gini idx for  Cherbourg :  0.46875
+Gini idx for  Queenstown :  0.46875
+Gini idx for  Embarked :  0.46875 
+
+
+Column:  Fare
+Gini idx for  Expensive :  0.42000000000000004
+Gini idx for  Cheap :  0.2777777777777777
+Gini idx for  Fare :  0.36666666666666664 
+
+
+The root node attribute is:  Pclass  with Gini idx:  0.3660714285714286
+
+Node depth 1 (Upper):
+Column:  Pclass
+Gini idx for  Upper :  0.40816326530612246
+Gini idx for  Pclass :  0.40816326530612246 
+
+
+Column:  Sex
+Gini idx for  Male :  0.48
+Gini idx for  Female :  0.0
+Gini idx for  Sex :  0.34285714285714286 
+
+
+Column:  Embarked
+Gini idx for  Cherbourg :  0.31999999999999984
+Gini idx for  Queenstown :  0.5
+Gini idx for  Embarked :  0.37142857142857133 
