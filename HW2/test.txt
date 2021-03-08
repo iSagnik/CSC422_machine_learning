@@ -12,3 +12,6 @@ Upper;Male;Cherbourg;Expensive;T
 Upper;Male;Cherbourg;Expensive;T
 Middle;Female;Queenstown;Expensive;T
 Upper;Male;Queenstown;Cheap;F
+
+array([[0.        , 8.75240538],
+       [8.75240538, 0.        ]])
